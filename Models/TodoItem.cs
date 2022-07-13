@@ -1,4 +1,4 @@
-namespace Namespace
+namespace TodoApi.Models
 {
     public class TodoItem
     {
